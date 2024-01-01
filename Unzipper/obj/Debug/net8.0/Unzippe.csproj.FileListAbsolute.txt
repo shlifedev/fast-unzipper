@@ -1,0 +1,15 @@
+C:\Users\shlif\RiderProjects\Unzipper\Unzippe\bin\Debug\net8.0\Unzippe.exe
+C:\Users\shlif\RiderProjects\Unzipper\Unzippe\bin\Debug\net8.0\Unzippe.deps.json
+C:\Users\shlif\RiderProjects\Unzipper\Unzippe\bin\Debug\net8.0\Unzippe.runtimeconfig.json
+C:\Users\shlif\RiderProjects\Unzipper\Unzippe\bin\Debug\net8.0\Unzippe.dll
+C:\Users\shlif\RiderProjects\Unzipper\Unzippe\bin\Debug\net8.0\Unzippe.pdb
+C:\Users\shlif\RiderProjects\Unzipper\Unzippe\obj\Debug\net8.0\Unzippe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shlif\RiderProjects\Unzipper\Unzippe\obj\Debug\net8.0\Unzippe.AssemblyInfoInputs.cache
+C:\Users\shlif\RiderProjects\Unzipper\Unzippe\obj\Debug\net8.0\Unzippe.AssemblyInfo.cs
+C:\Users\shlif\RiderProjects\Unzipper\Unzippe\obj\Debug\net8.0\Unzippe.csproj.CoreCompileInputs.cache
+C:\Users\shlif\RiderProjects\Unzipper\Unzippe\obj\Debug\net8.0\Unzippe.sourcelink.json
+C:\Users\shlif\RiderProjects\Unzipper\Unzippe\obj\Debug\net8.0\Unzippe.dll
+C:\Users\shlif\RiderProjects\Unzipper\Unzippe\obj\Debug\net8.0\refint\Unzippe.dll
+C:\Users\shlif\RiderProjects\Unzipper\Unzippe\obj\Debug\net8.0\Unzippe.pdb
+C:\Users\shlif\RiderProjects\Unzipper\Unzippe\obj\Debug\net8.0\Unzippe.genruntimeconfig.cache
+C:\Users\shlif\RiderProjects\Unzipper\Unzippe\obj\Debug\net8.0\ref\Unzippe.dll
